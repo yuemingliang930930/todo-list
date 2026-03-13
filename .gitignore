@@ -36,3 +36,5 @@ Thumbs.db
 
 # Codex / local agent
 .claude/
+
+.codex/
